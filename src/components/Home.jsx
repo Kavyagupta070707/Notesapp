@@ -4,7 +4,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { addTopaste,updateTopaste } from '../redux/paste';
 import { format } from 'date-fns';
 
-import './home.css'
+import './Home.css'
 const Home = () => {
   const[title,settitle]=useState('')
   const [value,setvalue]=useState('')
