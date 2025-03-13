@@ -1,0 +1,20 @@
+.home{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    align-items: center;
+    margin-bottom: 20px;
+    
+}
+input{
+    padding: 7px;
+}
+.pbut{
+    background-color: rgb(51, 50, 50);
+    color: aliceblue;
+    min-width: 100px;
+    margin-top: 9px;
+    padding: 7px;
+    margin-left: 15px;
+    border-radius: 5px;
+}

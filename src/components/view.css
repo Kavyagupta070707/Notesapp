@@ -1,0 +1,18 @@
+.view{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+h1{
+    color: beige;
+    margin-top: 20px;
+}
+textarea{
+    width: 500px;
+    background-color: black;
+    color: beige;
+    padding: 7px;
+    border-radius: 7px;
+}
